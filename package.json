@@ -1,0 +1,26 @@
+{
+  "name": "pack_demo",
+  "version": "1.0.0",
+  "description": "Ben on test node là ;-)",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spirulineman/Node.js_1_demo.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Mongo",
+    "Express",
+    "Angular",
+    "NodeJs"
+  ],
+  "author": "Le_Druide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spirulineman/Node.js_1_demo/issues"
+  },
+  "homepage": "https://github.com/Spirulineman/Node.js_1_demo#readme"
+}
